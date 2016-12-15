@@ -5,4 +5,4 @@
   - accuracy_all.csv: scores from various models
   - prompt.csv: prompts for 8 essay sets
 
-## Website can be access here: http://minjkimk.wixsite.com/cs109a
+Website can be accessed here: http://minjkimk.wixsite.com/cs109a
